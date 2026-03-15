@@ -31,18 +31,18 @@ Images are grayscale MRI scans
 | Visualization | Matplotlib, Seaborn |
 | Environment | Google Colab |
 # Project Pipeline
-![pipeline](https://github.com/AliRiy/MRI-Brain-Tumor-Detection-Using-Hybrid-Quantum-Classical-Neural-Networks/blob/main/pipeline-4.jpg)
+![pipeline](https://github.com/AliRiy/MRI-Brain-Tumor-Detection-Using-Hybrid-Quantum-Classical-Neural-Networks/blob/main/image/pipeline-4.jpg)
 
 # FCNN Layer Architecture
-![fcnn architecture](https://github.com/AliRiy/MRI-Brain-Tumor-Detection-Using-Hybrid-Quantum-Classical-Neural-Networks/blob/main/fcnnarchitecture.png)
+![fcnn architecture](https://github.com/AliRiy/MRI-Brain-Tumor-Detection-Using-Hybrid-Quantum-Classical-Neural-Networks/blob/main/image/fcnnarchitecture.png)
 
 # FCNN-VQC Layer Architecture
-![VQC architecture](https://github.com/AliRiy/MRI-Brain-Tumor-Detection-Using-Hybrid-Quantum-Classical-Neural-Networks/blob/main/vqclayers.jpeg)
+![VQC architecture](https://github.com/AliRiy/MRI-Brain-Tumor-Detection-Using-Hybrid-Quantum-Classical-Neural-Networks/blob/main/image/vqclayers.jpeg)
 
 # VQC Quantum Circuit
-![VQC circuit](https://github.com/AliRiy/MRI-Brain-Tumor-Detection-Using-Hybrid-Quantum-Classical-Neural-Networks/blob/main/vqccircuit.png)
+![VQC circuit](https://github.com/AliRiy/MRI-Brain-Tumor-Detection-Using-Hybrid-Quantum-Classical-Neural-Networks/blob/main/image/vqccircuit.png)
 
-![VQC layers circuit](https://github.com/AliRiy/MRI-Brain-Tumor-Detection-Using-Hybrid-Quantum-Classical-Neural-Networks/blob/main/vqclayercircuit.png)
+![VQC layers circuit](https://github.com/AliRiy/MRI-Brain-Tumor-Detection-Using-Hybrid-Quantum-Classical-Neural-Networks/blob/main/image/vqclayercircuit.png)
 
 # VQC Gate Breakdown
-![VQC architecture](https://github.com/AliRiy/MRI-Brain-Tumor-Detection-Using-Hybrid-Quantum-Classical-Neural-Networks/blob/main/vqcgate.jpeg)
+![VQC architecture](https://github.com/AliRiy/MRI-Brain-Tumor-Detection-Using-Hybrid-Quantum-Classical-Neural-Networks/blob/main/image/vqcgate.jpeg)
