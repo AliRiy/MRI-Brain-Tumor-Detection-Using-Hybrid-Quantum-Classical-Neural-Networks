@@ -40,4 +40,4 @@ Images are grayscale MRI scans
 ![VQC architecture](https://github.com/AliRiy/MRI-Brain-Tumor-Detection-Using-Hybrid-Quantum-Classical-Neural-Networks/blob/main/vqclayers.jpeg)
 
 # VQC Quantum Circuit
-![VQC architecture](https://github.com/AliRiy/MRI-Brain-Tumor-Detection-Using-Hybrid-Quantum-Classical-Neural-Networks/blob/main/vqclayers.jpeg)
+![VQC architecture](https://github.com/AliRiy/MRI-Brain-Tumor-Detection-Using-Hybrid-Quantum-Classical-Neural-Networks/blob/main/vqcgate.jpeg)
