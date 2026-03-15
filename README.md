@@ -42,7 +42,14 @@ Images are grayscale MRI scans
 # VQC Quantum Circuit
 ![VQC circuit](https://github.com/AliRiy/MRI-Brain-Tumor-Detection-Using-Hybrid-Quantum-Classical-Neural-Networks/blob/main/image/vqccircuit.png)
 
+<b>Circuit components</b>:
+* AngleEmbedding
+* StronglyEntanglingLayers
+* Measurement
+
 ![VQC layers circuit](https://github.com/AliRiy/MRI-Brain-Tumor-Detection-Using-Hybrid-Quantum-Classical-Neural-Networks/blob/main/image/vqclayercircuit.png)
 
 # VQC Gate Breakdown
 ![VQC architecture](https://github.com/AliRiy/MRI-Brain-Tumor-Detection-Using-Hybrid-Quantum-Classical-Neural-Networks/blob/main/image/vqcgate.jpeg)
+
+# FCNN results (fcnn classifier as last layer)
