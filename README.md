@@ -21,6 +21,15 @@ Dataset statistics:
 
 Images are grayscale MRI scans
 
+# Technologies
+| Category | Tools |
+| --- | --- |
+| Language | Python |
+| Deep learning | PyTorch |
+| Quantum ML | PennyLane, PennyLane-Lightning |
+| ML Utilities | scikit-learn (PCA, metrics, preprocessing) |
+| Visualization | Matplotlib, Seaborn |
+| Environment | Google Colab |
 # Project Pipeline
 MRI Images (64×64, grayscale)
         │
