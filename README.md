@@ -31,6 +31,11 @@ Images are grayscale MRI scans
 | Visualization | Matplotlib, Seaborn |
 | Environment | Google Colab |
 # Project Pipeline
-![pipeline]()
+![pipeline](https://github.com/AliRiy/MRI-Brain-Tumor-Detection-Using-Hybrid-Quantum-Classical-Neural-Networks/blob/main/pipeline-4.jpg)
+
 # FCNN Layer Architecture
 ![fcnn architecture](https://github.com/AliRiy/MRI-Brain-Tumor-Detection-Using-Hybrid-Quantum-Classical-Neural-Networks/blob/main/fcnnarchitecture.png)
+
+# VQC Layer Architecture
+![fcnn architecture](https://github.com/AliRiy/MRI-Brain-Tumor-Detection-Using-Hybrid-Quantum-Classical-Neural-Networks/blob/main/fcnnarchitecture.png)
+
