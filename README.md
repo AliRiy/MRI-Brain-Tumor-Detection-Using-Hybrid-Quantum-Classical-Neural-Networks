@@ -31,29 +31,6 @@ Images are grayscale MRI scans
 | Visualization | Matplotlib, Seaborn |
 | Environment | Google Colab |
 # Project Pipeline
-MRI Images (64×64, grayscale)
-        │
-        ▼
-  Normalization & Flattening (4096-d)
-        │
-        ▼
-  Data Augmentation (Gaussian noise)
-        │
-        ▼
-  StandardScaler → PCA (150 components, 87.9% variance)
-        │
-        ▼
-  FCNN Feature Extractor (150 → 64 → 32 → 8)
-        │
-        ▼
-  Adapter Layer (Linear + Tanh → scale to [-π, π])
-        │
-        ▼
-  Variational Quantum Circuit (8 qubits, 6 layers)
-        │
-        ▼
-  Measurement (PauliZ) → Binary Prediction
-
-
+![pipeline]()
 # FCNN Layer Architecture
 ![fcnn architecture](https://github.com/AliRiy/MRI-Brain-Tumor-Detection-Using-Hybrid-Quantum-Classical-Neural-Networks/blob/main/fcnnarchitecture.png)
