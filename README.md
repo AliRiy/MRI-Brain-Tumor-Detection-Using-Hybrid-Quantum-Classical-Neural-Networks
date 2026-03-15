@@ -47,3 +47,4 @@ MRI Images (64×64, grayscale)
 
 
 # FCNN Layer Architecture
+![fcnn architecture](URL_OR_PATH)
