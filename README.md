@@ -47,4 +47,4 @@ MRI Images (64×64, grayscale)
 
 
 # FCNN Layer Architecture
-![fcnn architecture](URL_OR_PATH)
+![fcnn architecture](https://github.com/AliRiy/MRI-Brain-Tumor-Detection-Using-Hybrid-Quantum-Classical-Neural-Networks/blob/main/fcnnarchitecture.png)
